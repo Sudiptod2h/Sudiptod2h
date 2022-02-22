@@ -47,3 +47,6 @@ http://103.170.140.8/hls/jalshamovies.m3u8
 http://103.170.140.8/hls/starjalsha.m3u8
 #EXTINF:0,Utv HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,STAR BHARAT HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
