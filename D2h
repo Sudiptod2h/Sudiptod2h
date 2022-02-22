@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:0,UTV Action
+http://live.flixhub.net/hls/utvaction.m3u8
+#EXTINF:0,STAR JALSHA
+http://live.flixhub.net/hls/starjalsha.m3u8
+#EXTINF:0,Star Sports 2
+http://live.flixhub.net/hls/starsports2.m3u8
+#EXTINF:0,Star gold
+http://live.flixhub.net/hls/stargold.m3u8
+#EXTINF:0,Sony Max HD
+http://live.flixhub.net/hls/sony-maxhd.m3u8
+#EXTINF:0,Star gold 2
+http://live.flixhub.net/hls/stargold2hd.m3u8
+#EXTINF:0,Star sports 1
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:0,Sony max 
+http://live.flixhub.net/hls/sonymax.m3u8
+#EXTINF:0,& Picture
+http://live.flixhub.net/hls/andpictures.m3u8
+#EXTINF:0,Colors Cineplex
+http://live.flixhub.net/hls/colorscineplex.m3u8
+#EXTINF:0,Zee cinema
+http://live.flixhub.net/hls/zeecinemahd.m3u8
+#EXTINF:0,Net Geo
+http://live.flixhub.net/hls/ngohd.m3u8
+#EXTINF:0,Discovery
+http://live.flixhub.net/hls/discovery.m3u8
+#EXTINF:0,Sun Bangla 
+http://103.170.140.8/hls/sunbangla.m3u8 
+#EXTINF:0,Somoy 
+http://103.170.140.8/hls/somoy.m3u8 
+#EXTINF:0,Sony Aath 
+http://103.170.140.8/hls/Sony_Aath.m3u8 
+#EXTINF:0,Colors Bangla Cinema 
+http://103.170.140.8/hls/colore-bangla-cinema.m3u8 
+#EXTINF:0,Zee Bangla HD 
+http://103.170.140.8/hls/zeebanglahd.m3u8 
+#EXTINF:0,Zee Bangla Cinema 
+http://103.170.140.8/hls/zee-bangla-cinema.m3u8
+#EXTINF:0,Discovery Bangla HD 
+http://103.170.140.8/hls/discovery.m3u8
+#EXTINF:0,National Geographic Bangla HD 
+http://103.170.140.8/hls/ngohd.m3u8
+#EXTINF:0,Jalsha Movies
+http://103.170.140.8/hls/jalshamovies.m3u8
+#EXTINF:0,Star Jalsha2
+http://103.170.140.8/hls/starjalsha.m3u8
