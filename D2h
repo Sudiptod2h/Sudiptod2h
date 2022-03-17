@@ -47,7 +47,8 @@ http://103.170.140.8/hls/jalshamovies.m3u8
 http://103.170.140.8/hls/starjalsha.m3u8
 #EXTINF:0,Utv HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-
+#EXTINF:0,Star Bharat SD
+https://live.bdtv.xyz:2096/token/LifeOK/chunks.m3u8?nimblesessionid=53570&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIyIDg6NDk6NDIgUE0maGFzaF92YWx1ZT0wd1BPR2I0N0NRV0R4WWF4T0JhaTBRPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:0,STAR BHARAT HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 
