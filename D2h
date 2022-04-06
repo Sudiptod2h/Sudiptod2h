@@ -4,23 +4,23 @@ http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:0,STAR JALSHA
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:0,Star Sports 2
-http://live.flixhub.net/hls/starsports2.m3u8
+http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:0,Star gold
 http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:0,Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:0,Star gold 2
-http://live.flixhub.net/hls/stargold2hd.m3u8
+http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:0,Star sports 1
 http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:0,Sony max 
-http://live.flixhub.net/hls/sonymax.m3u8
+http://103.55.144.46/hls/sonymax.m3u8
 #EXTINF:0,& Picture
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:0,Colors Cineplex
 http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:0,Zee cinema
-http://live.flixhub.net/hls/zeecinemahd.m3u8
+http://103.55.144.46/hls/zeecinemahd.m3u8
 #EXTINF:0,Travelxp
 http://103.55.144.46/hls/travelxp.m3u8
 #EXTINF:0,Discovery
@@ -36,7 +36,7 @@ http://103.55.144.46/hls/colore-bangla-cinema.m3u8
 #EXTINF:0,Zee Bangla HD 
 http://103.170.140.8/hls/zeebanglahd.m3u8 
 #EXTINF:0,Zee Bangla Cinema 
-http://103.170.140.8/hls/zee-bangla-cinema.m3u8
+http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 #EXTINF:0,Discovery Bangla HD 
 http://103.170.140.8/hls/discovery.m3u8
 #EXTINF:0,National Geographic Bangla HD 
@@ -44,7 +44,7 @@ http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:0,Jalsha Movies
 http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:0,Star Jalsha2
-http://103.170.140.8/hls/starjalsha.m3u8
+https://nayeemparvez-sp.myftp.org:443/evolution/Star-jalsha.stream/chunks.m3u8
 #EXTINF:0,Utv HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Bharat SD
