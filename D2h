@@ -45,7 +45,10 @@ https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
 http://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
 #EXTINF:0,DANGAL 2
 https://itvoign.multitvsolution.com/idvo/enterr10movies_540p/index.m3u8
-
+#EXTINF:0,Star gold 2 SD
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:0,ZEE CINEMA HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Bangla Cinema 
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8 
 #EXTINF:0,Zee Bangla HD 
