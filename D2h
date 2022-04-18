@@ -12,7 +12,7 @@ http://89.187.162.109/STARBHARATHD/mono.m3u8
 #EXTINF:0,Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:0,Star gold
-http://103.55.144.46/hls/stargold.m3u8
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:0,Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:0,Star gold 2
@@ -27,6 +27,8 @@ http://103.55.144.46/hls/andpictures.m3u8
 http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:0,Zee cinema
 http://103.55.144.46/hls/zeecinemahd.m3u8
+#EXTINF:0,DHINCHAK HD
+http://103.55.144.46/hls/dhin.m3u8
 #EXTINF:0,Travelxp
 http://103.55.144.46/hls/travelxp.m3u8
 #EXTINF:0,Discovery
