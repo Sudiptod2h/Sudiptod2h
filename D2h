@@ -12,15 +12,15 @@ http://89.187.162.109/STARBHARATHD/mono.m3u8
 #EXTINF:0,Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:0,Star gold
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+http://144.217.70.181:9587/hin2/STARGOLDHD/index.m3u8
 #EXTINF:0,Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:0,Star gold 2
-http://103.55.144.46/hls/stargold2hd.m3u8
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
 http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:0,Sony max 
-http://103.55.144.46/hls/sonymax.m3u8
+http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8
 #EXTINF:0,& Picture
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:0,Colors Cineplex
@@ -29,6 +29,8 @@ http://103.55.144.46/hls/colorscineplex.m3u8
 http://103.55.144.46/hls/zeecinemahd.m3u8
 #EXTINF:0,ZEE ACTION
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,ENTER10 MOVIES
+http://89.187.162.109/SONYPAL/mono.m3u8
 
 #EXTINF:0,DHINCHAK HD
 http://103.55.144.46/hls/dhin.m3u8
