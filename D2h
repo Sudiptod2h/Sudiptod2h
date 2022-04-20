@@ -12,7 +12,7 @@ http://89.187.162.109/STARBHARATHD/mono.m3u8
 #EXTINF:0,Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:0,Star gold
-http://144.217.70.181:9587/hin2/STARGOLDHD/index.m3u8
+http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF:0,Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:0,Star gold 2
@@ -20,7 +20,7 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
 http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:0,Sony max 
-http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8
+http://208.86.19.13:81/706.stream/index.m3u8
 #EXTINF:0,& Picture
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:0,Colors Cineplex
@@ -63,7 +63,7 @@ http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Bangla Cinema 
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8 
 #EXTINF:0,Zee Bangla HD 
-http://103.170.140.8/hls/zeebanglahd.m3u8 
+http://208.86.19.13:81/906.stream/index.m3u8 
 #EXTINF:0,Zee Bangla Cinema 
 http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:0,Discovery Bangla HD 
@@ -86,8 +86,8 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 http://45.86.190.64:25461/HP4x2CT41yV36FAT/MTC7e4eqPyB2hpG4/34190?play_token=eyxjISD5T5&token=TURYAhZYEAwSVAFXWlNUB1FaAgICCAUBAgVcUF5aVVEEAAAAXAACAlJGTxBLF0AGVA9uD1IbCQUFAl0FShsTFlMUbwoBEggUAVBbAAFWBUEZQEUPW1wRDAAFUAFRDFJcBFAcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:0,SONY 
 http://89.187.162.109/SONYHD/mono.m3u8
-#EXTINF:0,SONY WAH
-http://89.187.162.109/SONYWAH/mono.m3u8
+#EXTINF:0,Akash Aath
+http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:0,Sony AAth
 http://10.16.100.204:8082/hls/s0ny8aat.m3u8
 #EXTINF:0,ZING
