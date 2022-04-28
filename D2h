@@ -37,6 +37,8 @@ http://208.86.19.13:81/709.stream/index.m3u8
 http://208.86.19.13:81/720.stream/index.m3u8
 #EXTINF:0,STAR BHARAT HD (NEW)
 http://208.86.19.13:81/721.stream/index.m3u8
+#EXTINF:0,STAR GOLD (NEW)
+http://103.132.16.98:8080/stargoldhd/mpegts
 
 #EXTINF:0,DHINCHAK HD
 http://103.55.144.46/hls/dhin.m3u8
