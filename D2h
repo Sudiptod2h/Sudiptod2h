@@ -34,9 +34,9 @@ http://89.187.162.109/SONYPAL/mono.m3u8
 #EXTINF:0,STAR GOLD SELECT
 http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:0,ASTRO CRICKET
-http://208.86.19.13:81/720.stream/index.m3u8
+http://42.201.253.14:4090/play/a093/index.m3u8
 #EXTINF:0,STAR BHARAT HD (NEW)
-http://208.86.19.13:81/721.stream/index.m3u8
+http://42.201.253.14:4090/play/a02v/index.m3u8
 #EXTINF:0,STAR GOLD (NEW)
 http://103.132.16.98:8080/stargoldhd/mpegts
 
