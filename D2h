@@ -22,7 +22,7 @@ http://103.132.16.98:8080/starsports1hd/mpegts
 #EXTINF:0,Sony max 
 http://208.86.19.13:81/706.stream/index.m3u8
 #EXTINF:0,& Picture
-http://103.55.144.46/hls/andpictures.m3u8
+http://42.201.253.14:4090/play/a091/index.m3u8
 #EXTINF:0,Colors Cineplex
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Zee cinema
