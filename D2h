@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:0,UTV Action
-http://103.55.144.46/hls/utvaction.m3u8
+http://103.167.190.250/hls/utvaction.m3u8
 #EXTINF:0,STAR JALSHA
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:0,Star Jalsha HD
 http://103.132.16.98:8080/starjalshahd/mpegts
 #EXTINF:0,Star Jalsha 3
-http://208.86.19.13:81/908.stream/index.m3u8
+http://103.167.190.250/hls/starjalsha.m3u8
 #EXTINF:0,Star Bharat 2
 http://89.187.162.109/STARBHARATHD/mono.m3u8
 #EXTINF:0,Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:0,Star gold
-http://208.86.19.13:81/717.stream/index.m3u8
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max HD
-http://103.55.144.46/hls/sony-maxhd.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:0,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
@@ -26,7 +26,7 @@ http://42.201.253.14:4090/play/a091/index.m3u8
 #EXTINF:0,Colors Cineplex
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Zee cinema
-http://103.55.144.46/hls/zeecinemahd.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ZEE ACTION
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,ENTER10 MOVIES
@@ -63,7 +63,7 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,ZEE CINEMA HD
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Bangla Cinema 
-http://103.55.144.46/hls/colore-bangla-cinema.m3u8 
+http://103.167.190.250/hls/colore-bangla-cinema.m3u8 
 #EXTINF:0,Zee Bangla HD 
 http://208.86.19.13:81/906.stream/index.m3u8 
 #EXTINF:0,Zee Bangla Cinema 
