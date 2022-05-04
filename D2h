@@ -14,19 +14,19 @@ http://89.187.162.109/STARBHARATHD/mono.m3u8
 #EXTINF:0,Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:0,Star gold
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+http://103.167.190.250/hls/stargold.m3u8
 #EXTINF:0,Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:0,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
-http://103.132.16.98:8080/starsports1hd/mpegts
+http://103.167.190.250/hls/stersports1hd.m3u8
 #EXTINF:0,Sony max 
 http://208.86.19.13:81/706.stream/index.m3u8
 #EXTINF:0,& Picture
 http://42.201.253.14:4090/play/a091/index.m3u8
 #EXTINF:0,Colors Cineplex
-http://208.86.19.13:81/735.stream/index.m3u8
+http://103.167.190.250/hls/colorscineplex.m3u8
 #EXTINF:0,Zee cinema
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ZEE ACTION
@@ -49,9 +49,9 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:0,DHINCHAK HD
 http://103.55.144.46/hls/dhin.m3u8
 #EXTINF:0,Travelxp
-http://103.55.144.46/hls/travelxp.m3u8
+http://103.167.190.250/hls/travelxp.m3u8
 #EXTINF:0,Discovery
-http://103.55.144.46/hls/discovery.m3u8
+http://103.167.190.250/hls/discovery.m3u8
 #EXTINF:0,BBC Earth
 http://103.55.144.46/hls/bbcearth.m3u8 
 #EXTINF:0,Ekattor
@@ -77,7 +77,7 @@ http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:0,Discovery Bangla HD 
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:0,National Geographic Bangla HD 
-http://103.55.144.46/hls/ngohd.m3u8
+http://103.167.190.250/hls/ngohd.m3u8
 #EXTINF:0,Jalsha Movies
 http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:0,Star Jalsha2
@@ -97,7 +97,7 @@ http://89.187.162.109/SONYHD/mono.m3u8
 #EXTINF:0,Akash Aath
 http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:0,Sony AAth
-http://10.16.100.204:8082/hls/s0ny8aat.m3u8
+http://103.167.190.250/hls/Sony_Aath.m3u8
 #EXTINF:0,ZING
 http://89.187.162.109/ZING/mono.m3u8
 #EXTINF:0,Bflix Movies
