@@ -41,6 +41,10 @@ http://42.201.253.14:4090/play/a093/index.m3u8
 http://42.201.253.14:4090/play/a02v/index.m3u8
 #EXTINF:0,STAR GOLD (NEW)
 http://103.132.16.98:8080/stargoldhd/mpegts
+#EXTINF:0,R Plus Gold
+http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
+#EXTINF:0,KHUSHBOO BANGLA
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 #EXTINF:0,DHINCHAK HD
 http://103.55.144.46/hls/dhin.m3u8
@@ -71,7 +75,7 @@ http://208.86.19.13:81/906.stream/index.m3u8
 #EXTINF:0,Zee Bangla Cinema 
 http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:0,Discovery Bangla HD 
-https://ranapk.tk/Discovery_Channel_Hindi.m3u8
+http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:0,National Geographic Bangla HD 
 http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:0,Jalsha Movies
