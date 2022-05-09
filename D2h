@@ -38,9 +38,9 @@ http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:0,ASTRO CRICKET
 http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
 #EXTINF:0,STAR BHARAT HD (NEW)
-http://42.201.253.14:4090/play/a02v/index.m3u8
+http://208.86.19.13:81/721.stream/index.m3u8
 #EXTINF:0,STAR GOLD (NEW)
-http://103.132.16.98:8080/stargoldhd/mpegts
+http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF:0,R Plus Gold
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:0,KHUSHBOO BANGLA
@@ -53,7 +53,7 @@ http://103.167.190.250/hls/travelxp.m3u8
 #EXTINF:0,Discovery
 http://103.167.190.250/hls/discovery.m3u8
 #EXTINF:0,BBC Earth
-http://103.55.144.46/hls/bbcearth.m3u8 
+http://103.167.190.250/hls/bbcearth.m3u8 
 #EXTINF:0,Ekattor
 http://208.86.19.13:81/604.stream/index.m3u8 
 #EXTINF:0,Sony Aath 
@@ -99,7 +99,7 @@ http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:0,Sony AAth
 http://103.167.190.250/hls/Sony_Aath.m3u8
 #EXTINF:0,ZING
-http://89.187.162.109/ZING/mono.m3u8
+https://ranapk.tk/Zing.m3u8
 #EXTINF:0,Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0,Sony HD
