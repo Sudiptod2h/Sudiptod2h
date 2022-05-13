@@ -14,7 +14,7 @@ http://89.187.162.109/STARBHARATHD/mono.m3u8
 #EXTINF:0,Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:0,Star gold
-http://144.217.70.181:9587/hin2/STARGOLDHD/index.m3u8
+http://103.167.190.250/hls/stargold.m3u8
 #EXTINF:0,Sony Max HD
 http://103.136.200.246:8082/Sony-Max/index.m3u8
 #EXTINF:0,Star gold 2
