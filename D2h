@@ -22,7 +22,7 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
 http://103.167.190.250/hls/stersports1hd.m3u8
 #EXTINF:0,Sony max 
-http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
+http://103.167.190.250/hls/sony-maxhd.m3u8
 #EXTINF:0,& Picture
 http://42.201.253.14:4090/play/a091/index.m3u8
 #EXTINF:0,Colors Cineplex
@@ -38,7 +38,7 @@ http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:0,ASTRO CRICKET
 http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 #EXTINF:0,STAR BHARAT HD (NEW)
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1566.m3u8
+
 #EXTINF:0,STAR GOLD (NEW)
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,R Plus Gold
