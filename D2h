@@ -22,9 +22,9 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
 http://103.167.190.250/hls/stersports1hd.m3u8
 #EXTINF:0,Sony max 
-http://103.167.190.250/hls/sony-maxhd.m3u8
+http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
 #EXTINF:0,& Picture
-http://42.201.253.14:4090/play/a091/index.m3u8
+http://103.167.190.250/hls/andpictures.m3u8
 #EXTINF:0,Colors Cineplex
 http://103.167.190.250/hls/colorscineplex.m3u8
 #EXTINF:0,Zee cinema
@@ -79,7 +79,7 @@ http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&toke
 #EXTINF:0,National Geographic Bangla HD 
 http://103.167.190.250/hls/ngohd.m3u8
 #EXTINF:0,Jalsha Movies
-http://103.55.144.46/hls/jalshamovies.m3u8
+http://103.136.200.246:8082/Jalshamovies/index.m3u8
 #EXTINF:0,Star Jalsha2
 http://89.187.162.109/STARJALSHA/mono.m3u8
 #EXTINF:0,Utv MOVIES HD
