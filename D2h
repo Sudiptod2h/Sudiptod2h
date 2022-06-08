@@ -10,11 +10,11 @@ http://103.167.190.250/hls/starjalsha.m3u8
 #EXTINF:0,star jalsha backup
 http://103.136.200.246:8082/Star-Jalsha/index.m3u8
 #EXTINF:0,Star Bharat 2
-http://89.187.162.109/STARBHARATHD/mono.m3u8
+
 #EXTINF:0,Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:0,Star gold
-http://103.167.190.250/hls/stargold.m3u8
+http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max HD
 http://103.136.200.246:8082/Sony-Max/index.m3u8
 #EXTINF:0,Star gold 2
@@ -22,7 +22,7 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
 http://103.167.190.250/hls/stersports1hd.m3u8
 #EXTINF:0,Sony max 
-http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:0,& Picture
 http://103.167.190.250/hls/andpictures.m3u8
 #EXTINF:0,Colors Cineplex
@@ -38,7 +38,7 @@ http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:0,ASTRO CRICKET
 http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 #EXTINF:0,STAR BHARAT HD (NEW)
-
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 #EXTINF:0,STAR GOLD (NEW)
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,R Plus Gold
