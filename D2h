@@ -4,7 +4,7 @@ http://103.167.190.250/hls/utvaction.m3u8
 #EXTINF:0,STAR JALSHA
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:0,Star Jalsha HD
-http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
+http://103.159.4.38:9191/CH24-INBD3/index.m3u8
 #EXTINF:0,Star Jalsha 3
 http://103.167.190.250/hls/starjalsha.m3u8
 #EXTINF:0,star jalsha backup
