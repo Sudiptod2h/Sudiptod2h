@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:0,UTV Action
-http://103.167.190.250/hls/utvaction.m3u8
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:0,STAR JALSHA
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:0,Star Jalsha HD
 http://103.159.4.38:9191/CH24-INBD3/index.m3u8
 #EXTINF:0,Star Jalsha 3
-http://103.167.190.250/hls/starjalsha.m3u8
+
 #EXTINF:0,star jalsha backup
 http://103.136.200.246:8082/Star-Jalsha/index.m3u8
 #EXTINF:0,Star Bharat 2
-
+http://45.86.190.64:25461/K8P5Fqkmqn/gqGHH5HsAT/34510?play_token=SAnPorPo35&token=TURYAhZYEAwSAlYKXlRXBgdXV1YGDAVQCVIFVlQLU1YCVANVVlUABgNGTxBLF0AGVA9uD1IbCQUFBlUFShsTFlMUbwoBEggUAVBQAwpSBkEZQEUPW1wRDAAFUAFQD1FWBlMcQRVZVhQKRlQDC1QQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCFYWXg8ZQFIJQ1dHREgRXhcvd0RJFANIFwBeQV9fCkEIGhdBQRlAWBVpS1ZFRUEBVAtcFEcMRABBSRJfV0g7AF1WDVcAQQteCEUbCRQAEUgXC1YIDEIJQjwVWVYUCkZUAwlTEB4=
 #EXTINF:0,Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:0,Star gold
@@ -22,11 +22,11 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
 http://103.167.190.250/hls/stersports1hd.m3u8
 #EXTINF:0,Sony max 
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,& Picture
 http://103.167.190.250/hls/andpictures.m3u8
 #EXTINF:0,Colors Cineplex
-http://103.167.190.250/hls/colorscineplex.m3u8
+http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Zee cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:0,ZEE ACTION
@@ -45,15 +45,16 @@ http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:0,KHUSHBOO BANGLA
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
-
-#EXTINF:0,DHINCHAK HD
-http://103.55.144.46/hls/dhin.m3u8
+#EXTINF:0,7 Star
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Star plus HD
+http://208.86.19.13:81/607.stream/index.m3u8
 #EXTINF:0,Travelxp
-http://103.167.190.250/hls/travelxp.m3u8
+http://103.55.144.46:80/hls/travelxp.m3u8
 #EXTINF:0,Discovery
-http://103.167.190.250/hls/discovery.m3u8
+http://103.55.144.46:80/hls/discovery.m3u8
 #EXTINF:0,BBC Earth
-http://103.167.190.250/hls/bbcearth.m3u8 
+http://103.55.144.46:80/hls/bbcearth.m3u8 
 #EXTINF:0,Ekattor
 http://208.86.19.13:81/604.stream/index.m3u8 
 #EXTINF:0,Sony Aath 
@@ -77,11 +78,11 @@ http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:0,Discovery Bangla HD 
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:0,National Geographic Bangla HD 
-http://103.167.190.250/hls/ngohd.m3u8
+http://103.55.144.46:80/hls/ngohd.m3u8
 #EXTINF:0,Jalsha Movies
 http://103.136.200.246:8082/Jalshamovies/index.m3u8
 #EXTINF:0,Star Jalsha2
-http://89.187.162.109/STARJALSHA/mono.m3u8
+
 #EXTINF:0,Utv MOVIES HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,UTV HD
@@ -93,7 +94,7 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF:0,DANGAL (IN)
 http://45.86.190.64:25461/HP4x2CT41yV36FAT/MTC7e4eqPyB2hpG4/34190?play_token=eyxjISD5T5&token=TURYAhZYEAwSVAFXWlNUB1FaAgICCAUBAgVcUF5aVVEEAAAAXAACAlJGTxBLF0AGVA9uD1IbCQUFAl0FShsTFlMUbwoBEggUAVBbAAFWBUEZQEUPW1wRDAAFUAFRDFJcBFAcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:0,SONY 
-http://89.187.162.109/SONYHD/mono.m3u8
+http://144.217.70.181:9587/hin2/SONYTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Akash Aath
 http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:0,Sony AAth
