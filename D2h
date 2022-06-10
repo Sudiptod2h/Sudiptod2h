@@ -6,7 +6,7 @@ http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:0,Star Jalsha HD
 http://103.159.4.38:9191/CH24-INBD3/index.m3u8
 #EXTINF:0,Star Jalsha 3
-
+http://stream.accessnetbd.com/hls/sky14.m3u8
 #EXTINF:0,star jalsha backup
 http://103.136.200.246:8082/Star-Jalsha/index.m3u8
 #EXTINF:0,Star Bharat 2
@@ -16,7 +16,7 @@ http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:0,Star gold
 http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max HD
-http://103.136.200.246:8082/Sony-Max/index.m3u8
+http://103.159.4.38:9191/CH32-IN-HIN4/index.m3u8
 #EXTINF:0,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
@@ -68,7 +68,7 @@ https://itvoign.multitvsolution.com/idvo/enterr10movies_540p/index.m3u8
 #EXTINF:0,Star gold 2 SD
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,ZEE CINEMA HD
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+http://103.159.4.38:9191/CH30-IN-HIN2/index.m3u8
 #EXTINF:0,Colors Bangla Cinema 
 http://103.167.190.250/hls/colore-bangla-cinema.m3u8 
 #EXTINF:0,Zee Bangla HD 
@@ -105,3 +105,5 @@ https://ranapk.tk/Zing.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0,Sony HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0,Colors HD
+http://103.159.4.38:9191/CH35-IN-HIN7/index.m3u8
