@@ -11,8 +11,8 @@ http://stream.accessnetbd.com/hls/sky14.m3u8
 
 #EXTINF:0,Star Bharat 2
 http://45.86.190.64:25461/K8P5Fqkmqn/gqGHH5HsAT/34510?play_token=SAnPorPo35&token=TURYAhZYEAwSAlYKXlRXBgdXV1YGDAVQCVIFVlQLU1YCVANVVlUABgNGTxBLF0AGVA9uD1IbCQUFBlUFShsTFlMUbwoBEggUAVBQAwpSBkEZQEUPW1wRDAAFUAFQD1FWBlMcQRVZVhQKRlQDC1QQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCFYWXg8ZQFIJQ1dHREgRXhcvd0RJFANIFwBeQV9fCkEIGhdBQRlAWBVpS1ZFRUEBVAtcFEcMRABBSRJfV0g7AF1WDVcAQQteCEUbCRQAEUgXC1YIDEIJQjwVWVYUCkZUAwlTEB4=
-#EXTINF:0,Star Sports 2
-http://103.55.144.46/hls/starsports2.m3u8
+#EXTINF:0,MTV HD+
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star gold
 http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max HD
@@ -24,7 +24,7 @@ http://103.167.190.250/hls/stersports1hd.m3u8
 #EXTINF:0,Sony max 
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,& Picture
-http://103.167.190.250/hls/andpictures.m3u8
+
 #EXTINF:0,Colors Cineplex
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Zee cinema
@@ -35,14 +35,14 @@ http://208.86.19.13:81/728.stream/index.m3u8
 http://89.187.162.109/SONYPAL/mono.m3u8
 #EXTINF:0,STAR GOLD SELECT
 http://208.86.19.13:81/709.stream/index.m3u8
-#EXTINF:0,ASTRO CRICKET
-http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
+#EXTINF:0,HUM TV HD
+http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 #EXTINF:0,STAR BHARAT HD (NEW)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 #EXTINF:0,STAR GOLD (NEW)
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
-#EXTINF:0,R Plus Gold
-http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
+#EXTINF:0,GEO TV
+http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,KHUSHBOO BANGLA
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:0,7 Star
