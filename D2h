@@ -16,11 +16,11 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star gold
 http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max HD
-http://103.159.4.38:9191/CH32-IN-HIN4/index.m3u8
+https://cdn.rangdhanu.live/SonyMaxHD/video.m3u8
 #EXTINF:0,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
-http://103.167.190.250/hls/stersports1hd.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
 #EXTINF:0,Sony max 
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,& Picture
@@ -54,7 +54,7 @@ http://103.55.144.46:80/hls/travelxp.m3u8
 #EXTINF:0,Discovery
 http://103.55.144.46:80/hls/discovery.m3u8
 #EXTINF:0,BBC Earth
-http://103.55.144.46:80/hls/bbcearth.m3u8 
+https://nbn.chowdhury-shaheb.com/live/nb-bbcearth_720p/chunks.m3u8 
 #EXTINF:0,Ekattor
 http://208.86.19.13:81/604.stream/index.m3u8 
 #EXTINF:0,Sony Aath 
@@ -68,7 +68,7 @@ https://itvoign.multitvsolution.com/idvo/enterr10movies_540p/index.m3u8
 #EXTINF:0,Star gold 2 SD
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,ZEE CINEMA HD
-http://103.159.4.38:9191/CH30-IN-HIN2/index.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-zee-cinema_720p/chunks.m3u8
 #EXTINF:0,Colors Bangla Cinema 
  
 #EXTINF:0,Zee Bangla HD 
