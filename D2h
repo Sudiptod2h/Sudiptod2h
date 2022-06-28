@@ -16,7 +16,7 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star gold
 http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max HD
-https://cdn.rangdhanu.live/SonyMaxHD/video.m3u8
+http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 #EXTINF:0,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
@@ -48,11 +48,11 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:0,7 Star
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Star plus HD
-http://208.86.19.13:81/607.stream/index.m3u8
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
 #EXTINF:0,Travelxp
 http://103.55.144.46:80/hls/travelxp.m3u8
 #EXTINF:0,Discovery
-http://103.55.144.46:80/hls/discovery.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-discovery_720p/chunks.m3u8
 #EXTINF:0,BBC Earth
 https://nbn.chowdhury-shaheb.com/live/nb-bbcearth_720p/chunks.m3u8 
 #EXTINF:0,Ekattor
