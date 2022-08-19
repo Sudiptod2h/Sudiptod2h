@@ -4,7 +4,7 @@ http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:0,STAR JALSHA
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:0,Star Jalsha HD
-http://103.159.4.38:9191/CH24-INBD3/index.m3u8
+http://dangguli.live:8080/StarJalshaHD/index.m3u8
 #EXTINF:0,Star Jalsha 3
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2533.m3u8
 #EXTINF:0,star jalsha backup
@@ -22,7 +22,7 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star sports 1
 https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
 #EXTINF:0,Sony max 
-http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
+http://dangguli.live:8080/SonyMaxHD/index.m3u8
 #EXTINF:0,& Picture
 https://nbn.chowdhury-shaheb.com/live/nb-npictures_720p/chunks.m3u8
 #EXTINF:0,Colors Cineplex
@@ -98,7 +98,7 @@ http://144.217.70.181:9587/hin2/SONYTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Akash Aath
 http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:0,Sony AAth
-http://103.167.190.250/hls/Sony_Aath.m3u8
+http://dangguli.live:8080/SonyAath/index.m3u8
 #EXTINF:0,ZING
 https://ranapk.tk/Zing.m3u8
 #EXTINF:0,Bflix Movies
