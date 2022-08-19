@@ -6,7 +6,7 @@ http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:0,Star Jalsha HD
 http://103.159.4.38:9191/CH24-INBD3/index.m3u8
 #EXTINF:0,Star Jalsha 3
-http://stream.accessnetbd.com/hls/sky14.m3u8
+http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2533.m3u8
 #EXTINF:0,star jalsha backup
 https://nbn.chowdhury-shaheb.com/live/nb-starjalsha_720p/chunks.m3u8
 #EXTINF:0,Star Bharat 2
