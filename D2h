@@ -6,7 +6,7 @@ http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:0,Star Jalsha HD
 http://dangguli.live:8080/StarJalshaHD/index.m3u8
 #EXTINF:0,Star Jalsha 3
-http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2533.m3u8
+http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
 #EXTINF:0,star jalsha backup
 https://nbn.chowdhury-shaheb.com/live/nb-starjalsha_720p/chunks.m3u8
 #EXTINF:0,Star Bharat 2
@@ -18,7 +18,7 @@ http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max HD
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 #EXTINF:0,Star gold 2
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:0,Star sports 1
 https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
 #EXTINF:0,Sony max 
