@@ -2,15 +2,15 @@
 #EXTINF:0,UTV Action
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:0,STAR JALSHA
-http://103.55.144.46/hls/starjalsha.m3u8
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136480
 #EXTINF:0,Star Jalsha HD
 http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:0,Star Jalsha 3
-http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
+http://103.99.249.107:81/play/a00l
 #EXTINF:0,star jalsha backup
 http://103.16.24.54:8080/channel4/index.m3u8
 #EXTINF:0,Star Bharat 2
-http://208.86.19.13:81/607.stream/index.m3u8
+http://103.162.136.235:4500/play/a00p/index.m3u8
 #EXTINF:0,MTV HD+
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star gold
