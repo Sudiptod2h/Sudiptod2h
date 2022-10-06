@@ -2,7 +2,7 @@
 #EXTINF:0,UTV Action
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:0,STAR JALSHA
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136480
+http://50.7.237.4:8080/STARJALSHA/index.m3u8
 #EXTINF:0,Star Jalsha HD
 http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:0,Star Jalsha 3
@@ -16,7 +16,7 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star gold
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:0,Sony Max HD
-http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
+http://50.7.237.4:8080/SONYMAXHD/index.m3u8
 #EXTINF:0,Star gold 2
 http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:0,Star sports 1
@@ -50,7 +50,7 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Star plus HD
 http://103.16.24.54:8080/channel3/index.m3u8
 #EXTINF:0,Travelxp
-http://103.55.144.46:80/hls/travelxp.m3u8
+
 #EXTINF:0,Discovery
 
 #EXTINF:0,BBC Earth
@@ -66,9 +66,9 @@ http://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
 #EXTINF:0,DANGAL TV 2
 https://itvoign.multitvsolution.com/idvo/enterr10movies_540p/index.m3u8
 #EXTINF:0,Star gold 2 SD
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+http://50.7.237.4:8080/STARGOLD2/index.m3u8
 #EXTINF:0,ZEE CINEMA HD
-https://nbn.chowdhury-shaheb.com/live/nb-zee-cinema_720p/chunks.m3u8
+http://50.7.237.4:8080/ZEECINEMAHD/index.m3u8
 #EXTINF:0,Colors Bangla Cinema 
  
 #EXTINF:0,Zee Bangla HD 
@@ -98,9 +98,9 @@ http://144.217.70.181:9587/hin2/SONYTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Akash Aath
 http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:0,Sony AAth
-http://dangguli.live:8080/SonyAath/index.m3u8
+http://50.7.237.4:8080/SONYAATH/index.m3u8
 #EXTINF:0,ZING
-https://ranapk.tk/Zing.m3u8
+http://50.7.237.4:8080/ZING/index.m3u8
 #EXTINF:0,Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0,Sony HD
