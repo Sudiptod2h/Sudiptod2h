@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,UTV Action
-http://103.55.144.46/hls/utvaction.m3u8
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
 #EXTINF:0,STAR JALSHA
 http://50.7.237.4:8080/STARJALSHA/index.m3u8
 #EXTINF:0,Star Jalsha HD
@@ -18,7 +18,7 @@ http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:0,Sony Max HD
 http://50.7.237.4:8080/SONYMAXHD/index.m3u8
 #EXTINF:0,Star gold 2
-http://103.55.144.46/hls/stargold2hd.m3u8
+http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
 #EXTINF:0,Star sports 1
 https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
 #EXTINF:0,Sony max 
@@ -86,7 +86,7 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:0,Utv MOVIES HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,UTV HD
-http://208.86.19.13:81/723.stream/index.m3u8
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0,Star Bharat SD
 http://208.86.19.13:81/721.stream/index.m3u8
 #EXTINF:0,STAR BHARAT HD
