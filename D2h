@@ -4,7 +4,7 @@ http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
 #EXTINF:0,STAR JALSHA
 http://50.7.237.4:8080/STARJALSHA/index.m3u8
 #EXTINF:0,Star Jalsha HD
-http://103.16.24.54:8080/channel5/index.m3u8
+https://iptv.the-nayeemparvez.ml/x-api/dubai.php?id=ngrp:star_jalsha_hd_all
 #EXTINF:0,Star Jalsha 3
 http://103.99.249.107:81/play/a00l
 #EXTINF:0,star jalsha backup
@@ -16,11 +16,11 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star gold
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:0,Sony Max HD
-http://50.7.237.4:8080/SONYMAXHD/index.m3u8
+http://31.172.87.20:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:0,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
 #EXTINF:0,Star sports 1
-https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
+http://103.143.235.50:8080/ch5/ch5.m3u8
 #EXTINF:0,Sony max 
 http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,& Picture
@@ -64,7 +64,7 @@ https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
 #EXTINF:0,DANGAL
 http://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
 #EXTINF:0,DANGAL TV 2
-https://itvoign.multitvsolution.com/idvo/enterr10movies_540p/index.m3u8
+http://31.172.87.20:2200/R-EX/HINDI_ENTER_10_MOVIES-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:0,Star gold 2 SD
 http://50.7.237.4:8080/STARGOLD2/index.m3u8
 #EXTINF:0,ZEE CINEMA HD
