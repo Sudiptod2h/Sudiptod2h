@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:0,UTV Action
-http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
+http://rv.bleutv.net:2089/152019521663077/152058336619947/206229
 #EXTINF:0,STAR JALSHA
 http://50.7.237.4:8080/STARJALSHA/index.m3u8
 #EXTINF:0,Star Jalsha HD
 https://iptv.the-nayeemparvez.ml/x-api/dubai.php?id=ngrp:star_jalsha_hd_all
 #EXTINF:0,Star Jalsha 3
-http://103.99.249.107:81/play/a00l
+http://sansat.net:25461/uyLyhmDxD9C8xqo/hZfolMD3IPL8hnx/95769
 #EXTINF:0,star jalsha backup
-http://103.16.24.54:8080/channel4/index.m3u8
+http://sansat.net:25461/uyLyhmDxD9C8xqo/hZfolMD3IPL8hnx/100642
 #EXTINF:0,Star Bharat 2
 http://103.162.136.235:4500/play/a00p/index.m3u8
 #EXTINF:0,MTV HD+
@@ -62,7 +62,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:0,ENTER10 BANGLA
 https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
 #EXTINF:0,DANGAL
-http://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
+http://sansat.net:25461/uyLyhmDxD9C8xqo/hZfolMD3IPL8hnx/95780
 #EXTINF:0,DANGAL TV 2
 http://31.172.87.20:2200/R-EX/HINDI_ENTER_10_MOVIES-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:0,Star gold 2 SD
@@ -70,7 +70,7 @@ http://50.7.237.4:8080/STARGOLD2/index.m3u8
 #EXTINF:0,ZEE CINEMA HD
 http://50.7.237.4:8080/ZEECINEMAHD/index.m3u8
 #EXTINF:0,Colors Bangla Cinema 
- 
+ http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:0,Zee Bangla HD 
 http://208.86.19.13:81/906.stream/index.m3u8 
 #EXTINF:0,Zee Bangla Cinema 
@@ -82,9 +82,9 @@ http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Jalsha Movies
 http://103.136.200.246:8082/Jalshamovies/index.m3u8
 #EXTINF:0,Star Jalsha2
-http://103.109.56.116/live/skyfeed1003/index.m3u8
+http://sansat.net:25461/uyLyhmDxD9C8xqo/hZfolMD3IPL8hnx/100722
 #EXTINF:0,Utv MOVIES HD
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+http://rv.bleutv.net:2089/152019521663077/152058336619947/206228
 #EXTINF:0,UTV HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0,Star Bharat SD
