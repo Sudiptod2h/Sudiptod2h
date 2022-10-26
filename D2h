@@ -40,7 +40,7 @@ http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 #EXTINF:0,STAR BHARAT HD (NEW)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 #EXTINF:0,STAR GOLD (NEW)
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/136582.ts
+http://rv.bleutv.net:2089/152019521663077/152058336619947/206308
 #EXTINF:0,GEO TV
 http://221.120.204.3/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,KHUSHBOO BANGLA
@@ -52,7 +52,7 @@ http://103.16.24.54:8080/channel3/index.m3u8
 #EXTINF:0,Travelxp
 
 #EXTINF:0,Discovery
-
+http://rv.bleutv.net:2089/152019521663077/152058336619947/206263
 #EXTINF:0,BBC Earth
  
 #EXTINF:0,Ekattor
@@ -66,7 +66,7 @@ http://sansat.net:25461/uyLyhmDxD9C8xqo/hZfolMD3IPL8hnx/95780
 #EXTINF:0,DANGAL TV 2
 http://31.172.87.20:2200/R-EX/HINDI_ENTER_10_MOVIES-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:0,Star gold 2 SD
-http://50.7.237.4:8080/STARGOLD2/index.m3u8
+http://rv.bleutv.net:2089/152019521663077/152058336619947/206139
 #EXTINF:0,ZEE CINEMA HD
 http://50.7.237.4:8080/ZEECINEMAHD/index.m3u8
 #EXTINF:0,Colors Bangla Cinema 
