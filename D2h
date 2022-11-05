@@ -4,19 +4,19 @@ http://rv.bleutv.net:2089/152019521663077/152058336619947/206229
 #EXTINF:0,STAR JALSHA
 http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/100642
 #EXTINF:0,Star Jalsha HD
-https://iptv.the-nayeemparvez.ml/x-api/dubai.php?id=ngrp:star_jalsha_hd_all
+http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
 #EXTINF:0,Star Jalsha 3
-http://sansat.net:25461/uyLyhmDxD9C8xqo/hZfolMD3IPL8hnx/95769
+https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 #EXTINF:0,star jalsha backup
-http://sansat.net:25461/uyLyhmDxD9C8xqo/hZfolMD3IPL8hnx/100642
+http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
 #EXTINF:0,Star Bharat 2
-http://103.162.136.235:4500/play/a00p/index.m3u8
+
 #EXTINF:0,MTV HD+
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star gold
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+http://103.151.43.102:8801/play/a035/index.m3u8
 #EXTINF:0,Sony Max HD
-http://31.172.87.20:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+https://tvs1.aynaott.com/MaxHD/index.m3u8
 #EXTINF:0,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
 #EXTINF:0,Star sports 1
@@ -24,31 +24,31 @@ http://103.143.235.50:8080/ch5/ch5.m3u8
 #EXTINF:0,Sony max 
 http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,& Picture
-http://103.16.24.54:8080/channel6/index.m3u8
+http://103.151.43.102:8801/play/a03a/index.m3u8
 #EXTINF:0,Colors Cineplex
-http://ranapk.gq/play.m3u8?id=Colors_Cineplex_voot_MOB
+http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
 #EXTINF:0,Zee cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:0,ZEE ACTION
 http://208.115.215.42/ZEE_ActIon_HD/index.m3u8
 #EXTINF:0,ENTER10 MOVIES
-http://ranapk.gq/play.m3u8?id=Rishtey_Cineplex_voot_MOB
+
 #EXTINF:0,STAR GOLD SELECT
 http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:0,HUM TV HD
-http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
+http://208.86.19.13:81/627.stream/index.m3u8
+#EXTINF:0,GEO TV
+http://208.86.19.13:81/603.stream/index.m3u8
 #EXTINF:0,STAR BHARAT HD (NEW)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 #EXTINF:0,STAR GOLD (NEW)
-http://rv.bleutv.net:2089/152019521663077/152058336619947/206308
-#EXTINF:0,GEO TV
-http://221.120.204.3/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+http://175.107.244.52:4455/play/a00n/index.m3u8
 #EXTINF:0,KHUSHBOO BANGLA
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+
 #EXTINF:0,7 Star
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0,Star plus HD
-http://103.16.24.54:8080/channel3/index.m3u8
+http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Travelxp
 
 #EXTINF:0,Discovery
@@ -60,7 +60,7 @@ http://208.86.19.13:81/604.stream/index.m3u8
 #EXTINF:0,Sony Aath 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8 
 #EXTINF:0,ENTER10 BANGLA
-https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
+
 #EXTINF:0,DANGAL
 http://sansat.net:25461/uyLyhmDxD9C8xqo/hZfolMD3IPL8hnx/95780
 #EXTINF:0,DANGAL TV 2
@@ -70,7 +70,7 @@ http://rv.bleutv.net:2089/152019521663077/152058336619947/206139
 #EXTINF:0,ZEE CINEMA HD
 http://50.7.237.4:8080/ZEECINEMAHD/index.m3u8
 #EXTINF:0,Colors Bangla Cinema 
- http://208.86.19.13:81/907.stream/index.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/9.m3u8
 #EXTINF:0,Zee Bangla HD 
 http://208.86.19.13:81/906.stream/index.m3u8 
 #EXTINF:0,Zee Bangla Cinema 
@@ -88,11 +88,11 @@ http://rv.bleutv.net:2089/152019521663077/152058336619947/206228
 #EXTINF:0,UTV HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0,Star Bharat SD
-http://208.86.19.13:81/721.stream/index.m3u8
+http://103.151.43.102:8801/play/a033/index.m3u8
 #EXTINF:0,STAR BHARAT HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF:0,DANGAL (IN)
-http://45.86.190.64:25461/HP4x2CT41yV36FAT/MTC7e4eqPyB2hpG4/34190?play_token=eyxjISD5T5&token=TURYAhZYEAwSVAFXWlNUB1FaAgICCAUBAgVcUF5aVVEEAAAAXAACAlJGTxBLF0AGVA9uD1IbCQUFAl0FShsTFlMUbwoBEggUAVBbAAFWBUEZQEUPW1wRDAAFUAFRDFJcBFAcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+http://103.151.43.102:8801/play/a05k/index.m3u8
 #EXTINF:0,SONY 
 http://221.120.204.3/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Akash Aath
