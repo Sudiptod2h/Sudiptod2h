@@ -14,7 +14,7 @@ http://cine-app.com:8000/mag00:1A:79:00:02:4B/pkSJXgtakm/76784
 #EXTINF:0,MTV HD+
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star gold
-http://103.151.43.102:8801/play/a035/index.m3u8
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1912
 #EXTINF:0,Sony Max HD
 https://tvs1.aynaott.com/MaxHD/index.m3u8
 #EXTINF:0,Star gold 2
@@ -24,15 +24,15 @@ http://103.143.235.50:8080/ch5/ch5.m3u8
 #EXTINF:0,Sony max 
 http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,& Picture
-http://103.151.43.102:8801/play/a03a/index.m3u8
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1945
 #EXTINF:0,Colors Cineplex
-http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1872
 #EXTINF:0,Zee cinema
-http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1916
 #EXTINF:0,ZEE ACTION
 http://208.115.215.42/ZEE_ActIon_HD/index.m3u8
 #EXTINF:0,ENTER10 MOVIES
-
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100932
 #EXTINF:0,STAR GOLD SELECT
 http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:0,HUM TV HD
