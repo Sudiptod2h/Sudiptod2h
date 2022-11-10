@@ -8,11 +8,11 @@ http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
 #EXTINF:0,Star Jalsha 3
 https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 #EXTINF:0,star jalsha backup
-http://cine-app.com:8000/mag00:1A:79:00:02:4B/pkSJXgtakm/76784
+http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
 #EXTINF:0,Star Bharat 2
 
 #EXTINF:0,MTV HD+
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+http://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
 #EXTINF:0,Star gold
 http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1912
 #EXTINF:0,Sony Max HD
