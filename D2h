@@ -80,7 +80,7 @@ http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&toke
 #EXTINF:0,National Geographic Bangla HD 
 http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Jalsha Movies
-http://103.136.200.246:8082/Jalshamovies/index.m3u8
+http://str24.l9574.com/617.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Jalsha2
 http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/100642
 #EXTINF:0,Utv MOVIES HD
@@ -104,6 +104,6 @@ http://50.7.237.4:8080/ZING/index.m3u8
 #EXTINF:0,Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0,Sony HD
-http://50.7.237.4:8080/SONY/index.m3u8
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:0,Colors HD
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
