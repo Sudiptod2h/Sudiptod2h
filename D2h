@@ -36,7 +36,7 @@ http://208.115.215.42/ZEE_ActIon_HD/index.m3u8
 #EXTINF:0,ENTER10 MOVIES
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/100932
 #EXTINF:0,STAR GOLD SELECT
-http://208.86.19.13:81/709.stream/index.m3u8
+http://103.151.43.102:8888/play/a04l/index.m3u8
 #EXTINF:0,HUM TV HD
 http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF:0,GEO TV
@@ -91,7 +91,7 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0,Star Bharat SD
 http://103.151.43.102:8801/play/a033/index.m3u8
 #EXTINF:0,STAR BHARAT HD
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+http://103.151.43.102:8888/play/a033/index.m3u8
 #EXTINF:0,DANGAL (IN)
 http://103.151.43.102:8801/play/a05k/index.m3u8
 #EXTINF:0,SONY 
