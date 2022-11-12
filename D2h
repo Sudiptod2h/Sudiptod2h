@@ -11,8 +11,8 @@ http://ottsansat.com:25461/0518982908/0518982908/100642
 http://iptvtree.net:8080/F17744/f01e18e2/12979
 #EXTINF:0,star jalsha backup
 http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
-#EXTINF:0,Star Bharat 2
-
+#EXTINF:0,Sananda Bangla
+http://bdip.ddns.net/tmp_hls/iptv/index.m3u8
 #EXTINF:0,MTV HD+
 http://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
 #EXTINF:0,Star gold
