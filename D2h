@@ -8,7 +8,7 @@ http://ottsansat.com:25461/0518982908/0518982908/100722
 #EXTINF:0,Star Jalsha2
 http://ottsansat.com:25461/0518982908/0518982908/100642
 #EXTINF:0,Star Jalsha 3
-http://45.127.244.7:8080/hls/channel12.m3u8
+http://iptvtree.net:8080/F17744/f01e18e2/12979
 #EXTINF:0,star jalsha backup
 http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
 #EXTINF:0,Star Bharat 2
@@ -18,7 +18,7 @@ http://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
 #EXTINF:0,Star gold
 http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1912
 #EXTINF:0,Sony Max HD
-https://tvs1.aynaott.com/MaxHD/index.m3u8
+http://iptvtree.net:8080/F17744/f01e18e2/1359
 #EXTINF:0,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
 #EXTINF:0,Star sports 1
@@ -42,7 +42,7 @@ http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF:0,GEO TV
 http://208.86.19.13:81/603.stream/index.m3u8
 #EXTINF:0,STAR BHARAT HD (NEW)
-http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+http://iptvtree.net:8080/F17744/f01e18e2/284583
 #EXTINF:0,STAR GOLD (NEW)
 http://175.107.244.52:4455/play/a00n/index.m3u8
 #EXTINF:0,KHUSHBOO BANGLA
@@ -64,12 +64,13 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:0,ENTER10 BANGLA
 
 #EXTINF:0,DANGAL
-http://sansat.net:25461/uyLyhmDxD9C8xqo/hZfolMD3IPL8hnx/95780
+http://iptvtree.net:8080/F17744/f01e18e2/82589
 #EXTINF:0,DANGAL TV 2
+http://iptvtree.net:8080/F17744/f01e18e2/193025
 #EXTINF:0,Star gold 2 SD
 http://rv.bleutv.net:2089/152019521663077/152058336619947/206139
 #EXTINF:0,ZEE CINEMA HD
-http://50.7.237.4:8080/ZEECINEMAHD/index.m3u8
+http://iptvtree.net:8080/F17744/f01e18e2/1350
 #EXTINF:0,Colors Bangla Cinema 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/9.m3u8
 #EXTINF:0,Zee Bangla HD 
@@ -100,10 +101,10 @@ http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:0,Sony AAth
 http://50.7.237.4:8080/SONYAATH/index.m3u8
 #EXTINF:0,ZING
-http://50.7.237.4:8080/ZING/index.m3u8
+http://iptvtree.net:8080/F17744/f01e18e2/173160
 #EXTINF:0,Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+http://iptvtree.net:8080/F17744/f01e18e2/73791
 #EXTINF:0,Sony HD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:0,Colors HD
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
