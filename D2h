@@ -5,14 +5,16 @@ http://ottsansat.com:25461/0518982908/0518982908/96254
 http://ottsansat.com:25461/0518982908/0518982908/95769
 #EXTINF:0,Star Jalsha HD
 http://ottsansat.com:25461/0518982908/0518982908/100722
-#EXTINF:0,Star Jalsha2
+#EXTINF:0,Star Jalsha 1
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/98883.ts
+#EXTINF:0,Star Jalsha 2
 http://ottsansat.com:25461/0518982908/0518982908/100642
 #EXTINF:0,Star Jalsha 3
 http://iptvtree.net:8080/F17744/f01e18e2/12979
 #EXTINF:0,star jalsha backup
 http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
 #EXTINF:0,Sananda Bangla
-http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/98883.ts
+http://c.globalflix.net:8081/live/hotstar/playlist.m3u8
 #EXTINF:0,MTV HD+
 http://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
 #EXTINF:0,Star gold
@@ -28,11 +30,11 @@ http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8ty
 #EXTINF:0,& Picture
 https://venompouer.000webhostapp.com/api.php?c=0-9-pictures
 #EXTINF:0,Colors Cineplex
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1872
+http://iptv.ndasat.xyz:88/550814249135328/550814249135328/1872
 #EXTINF:0,Zee cinema
 https://venompouer.000webhostapp.com/api.php?c=0-9-zeecinema
 #EXTINF:0,ZEE ACTION
-http://208.115.215.42/ZEE_ActIon_HD/index.m3u8
+http://iptv.ndasat.xyz:88/550814249135328/550814249135328/1917
 #EXTINF:0,ENTER10 MOVIES
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/100932
 #EXTINF:0,STAR GOLD SELECT
@@ -72,7 +74,7 @@ http://starshare.live:8080/live/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/
 #EXTINF:0,ZEE CINEMA HD
 http://iptvtree.net:8080/F17744/f01e18e2/1350
 #EXTINF:0,Colors Bangla Cinema 
-http://xtream.efiberbd.net:8080/live/mkaua/stream/9.m3u8
+http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:0,Zee Bangla HD 
 https://venompouer.000webhostapp.com/api.php?c=0-9-zeebangla
 #EXTINF:0,Zee Bangla Cinema 
