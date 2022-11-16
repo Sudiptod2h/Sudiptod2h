@@ -12,7 +12,7 @@ http://iptvtree.net:8080/F17744/f01e18e2/12979
 #EXTINF:0,star jalsha backup
 http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/98883.ts
 #EXTINF:0,Sananda Bangla
-http://c.globalflix.net:8081/live/hotstar/playlist.m3u8
+http://ottsansat.com:25461/0518982908/0518982908/95771
 #EXTINF:0,ORANGE BANGLA
 http://102.222.232.18:9981/stream/channelid/1219337599?ticket=841D11FD60F46FE355619FBDDD146822268DCF74&profile=matroska
 #EXTINF:0,Sony Aath 
@@ -34,7 +34,7 @@ http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8ty
 #EXTINF:0,ENTER10 MOVIES
 http://102.222.232.18:9981/stream/channelid/904551236?ticket=A0DDD0F1E6B23EF65DB5A1AE099D2A82C8F21015&profile=matroska
 #EXTINF:0,MTV HD+
-http://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
+http://ottsansat.com:25461/0518982908/0518982908/96237
 #EXTINF:0,Star gold
 http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862738&extension=ts&play_token=MCXI8zLmSU
 #EXTINF:0,STAR GOLD (NEW)
@@ -98,13 +98,13 @@ http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 #EXTINF:0,Discovery
 http://172.16.29.250/hls/discovery.m3u8
 #EXTINF:0,BBC Earth
-
+http://ottsansat.com:25461/0518982908/0518982908/96183
 #EXTINF:0,Discovery Bangla HD 
 http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/406.ts
 #EXTINF:0,National Geographic Bangla HD 
-
+http://ottsansat.com:25461/0518982908/0518982908/95767
 #EXTINF:0,Ekattor
-http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95780
+http://103.118.76.146:1935/plex/ekattortv.stream/chunks.m3u8
 
 
 
