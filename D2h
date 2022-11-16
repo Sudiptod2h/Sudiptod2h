@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:0,UTV Action
-http://ottsansat.com:25461/0518982908/0518982908/96254
 #EXTINF:0,STAR JALSHA
 http://ottsansat.com:25461/0518982908/0518982908/95769
 #EXTINF:0,Star Jalsha HD
 http://ottsansat.com:25461/0518982908/0518982908/100722
 #EXTINF:0,Star Jalsha 1
-
+http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
 #EXTINF:0,Star Jalsha 2
 http://ottsansat.com:25461/0518982908/0518982908/100642
 #EXTINF:0,Star Jalsha 3
@@ -15,98 +13,103 @@ http://iptvtree.net:8080/F17744/f01e18e2/12979
 http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/98883.ts
 #EXTINF:0,Sananda Bangla
 http://c.globalflix.net:8081/live/hotstar/playlist.m3u8
-#EXTINF:0,MTV HD+
-http://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
-#EXTINF:0,Star gold
-http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862738&extension=ts&play_token=MCXI8zLmSU
-#EXTINF:0,Sony Max HD
-http://iptvtree.net:8080/F17744/f01e18e2/1359
-#EXTINF:0,Star gold 2
-http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
-#EXTINF:0,Star sports 1
-http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862744&extension=ts&play_token=mAZrL4C2oS
-#EXTINF:0,Sony max 
-http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/98857.ts
-#EXTINF:0,& Picture
-https://venompouer.000webhostapp.com/api.php?c=0-9-pictures
-#EXTINF:0,Colors Cineplex
-http://iptv.ndasat.xyz:88/550814249135328/550814249135328/1872
-#EXTINF:0,Zee cinema
-https://venompouer.000webhostapp.com/api.php?c=0-9-zeecinema
-#EXTINF:0,ZEE ACTION
-http://iptv.ndasat.xyz:88/550814249135328/550814249135328/1917
-#EXTINF:0,ENTER10 MOVIES
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100932
-#EXTINF:0,STAR GOLD SELECT
-http://103.151.43.102:8888/play/a04l/index.m3u8
-#EXTINF:0,HUM TV HD
-http://208.86.19.13:81/627.stream/index.m3u8
-#EXTINF:0,GEO TV
-http://208.86.19.13:81/603.stream/index.m3u8
-#EXTINF:0,STAR BHARAT HD (NEW)
-http://iptvtree.net:8080/F17744/f01e18e2/284583
-#EXTINF:0,STAR GOLD (NEW)
-http://ottsansat.com:25461/0518982908/0518982908/96174
-#EXTINF:0,KHUSHBOO BANGLA
-
-#EXTINF:0,7 Star
-
-#EXTINF:0,Star plus HD
-http://starshare.live:8080/live/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/3744.ts
-#EXTINF:0,Travelxp
-
-#EXTINF:0,Discovery
-http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/100672
-#EXTINF:0,BBC Earth
- 
-#EXTINF:0,Ekattor
-http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95780
+#EXTINF:0,ORANGE BANGLA
+http://102.222.232.18:9981/stream/channelid/1219337599?ticket=841D11FD60F46FE355619FBDDD146822268DCF74&profile=matroska
 #EXTINF:0,Sony Aath 
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8 
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:0,Sony AAth
+http://103.118.76.146:1935/evolution/SonyAath.stream/playlist.m3u8
 #EXTINF:0,ENTER10 BANGLA
-
-#EXTINF:0,DANGAL
-http://iptvtree.net:8080/F17744/f01e18e2/82589
-#EXTINF:0,DANGAL TV 2
-http://iptvtree.net:8080/F17744/f01e18e2/193025
-#EXTINF:0,Star gold 2 SD
-http://starshare.live:8080/live/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4324.ts
-#EXTINF:0,ZEE CINEMA HD
-http://iptvtree.net:8080/F17744/f01e18e2/1350
+http://102.222.232.18:9981/stream/channelid/961022701?ticket=6D18BD9D96EBE3EFC77C6FB3EEC4FDFCC1C6C744&profile=matroska
 #EXTINF:0,Colors Bangla Cinema 
 http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:0,Zee Bangla HD 
 https://venompouer.000webhostapp.com/api.php?c=0-9-zeebangla
 #EXTINF:0,Zee Bangla Cinema 
 http://45.127.244.7:8080/hls/channel11.m3u8
-#EXTINF:0,Discovery Bangla HD 
-http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/406.ts
-#EXTINF:0,National Geographic Bangla HD 
-
 #EXTINF:0,Jalsha Movies
 http://str24.l9574.com/617.stream/tracks-v1a1/mono.m3u8
-
+#EXTINF:0,Akash Aath
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/396.ts
+#EXTINF:0,ENTER10 MOVIES
+http://102.222.232.18:9981/stream/channelid/904551236?ticket=A0DDD0F1E6B23EF65DB5A1AE099D2A82C8F21015&profile=matroska
+#EXTINF:0,MTV HD+
+http://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
+#EXTINF:0,Star gold
+http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862738&extension=ts&play_token=MCXI8zLmSU
+#EXTINF:0,STAR GOLD (NEW)
+http://ottsansat.com:25461/0518982908/0518982908/96174
+#EXTINF:0,Sony Max HD
+http://102.222.232.18:9981/stream/channelid/1079414242?ticket=95DBC0AB7E3701C2191BE75EB315EEE9D5B14FCC&profile=matroska
+#EXTINF:0,Sony max 
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/98857.ts
+#EXTINF:0,Star gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
+#EXTINF:0,Star gold 2 SD
+http://starshare.live:8080/live/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4324.ts
+#EXTINF:0,& Picture
+https://venompouer.000webhostapp.com/api.php?c=0-9-pictures
+#EXTINF:0,Colors Cineplex
+http://iptv.ndasat.xyz:88/550814249135328/550814249135328/1872
+#EXTINF:0,Zee cinema
+https://venompouer.000webhostapp.com/api.php?c=0-9-zeecinema
+#EXTINF:0,ZEE CINEMA HD
+http://iptvtree.net:8080/F17744/f01e18e2/1350
+#EXTINF:0,ZEE ACTION
+http://iptv.ndasat.xyz:88/550814249135328/550814249135328/1917
+#EXTINF:0,STAR GOLD SELECT
+http://102.222.232.18:9981/stream/channelid/1289136274?ticket=4D3561953FC08883DED6B3B94125B6D7E4FE611D&profile=matroska
+#EXTINF:0,UTV Action
+http://102.222.232.18:9981/stream/channelid/1452596058?ticket=AE8BB41DABA59229CEA2B53D7DC1EDCAFF44D49E&profile=matroska
 #EXTINF:0,Utv MOVIES HD
 http://ottsansat.com:25461/0518982908/0518982908/96287
 #EXTINF:0,UTV HD
 http://ottsansat.com:25461/0518982908/0518982908/96255
+#EXTINF:0,Bflix Movies
+http://iptvtree.net:8080/F17744/f01e18e2/73791
+#EXTINF:0,HUM TV HD
+http://208.86.19.13:81/627.stream/index.m3u8
+#EXTINF:0,GEO TV
+http://208.86.19.13:81/603.stream/index.m3u8
+#EXTINF:0,STAR BHARAT HD (NEW)
+http://iptvtree.net:8080/F17744/f01e18e2/284583
 #EXTINF:0,Star Bharat SD
 http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862736&extension=ts&play_token=wYOpyBUgSY
 #EXTINF:0,STAR BHARAT HD
-http://103.151.43.102:8888/play/a033/index.m3u8
+http://102.222.232.18:9981/stream/channelid/890539945?ticket=C7B8705EDD879ED059537190F90F4269AC5DC911&profile=matroska
+#EXTINF:0,DANGAL
+http://iptvtree.net:8080/F17744/f01e18e2/82589
 #EXTINF:0,DANGAL (IN)
 http://ottsansat.com:25461/0518982908/0518982908/96296
+#EXTINF:0,DANGAL TV 2
+http://iptvtree.net:8080/F17744/f01e18e2/193025
 #EXTINF:0,SONY 
-http://103.118.76.146:1935/evolution/Sonyhd.stream/playlist.m3u8
-#EXTINF:0,Akash Aath
-http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/396.ts
-#EXTINF:0,Sony AAth
-http://103.118.76.146:1935/evolution/SonyAath.stream/playlist.m3u8
-#EXTINF:0,ZING
-http://iptvtree.net:8080/F17744/f01e18e2/173160
-#EXTINF:0,Bflix Movies
-http://iptvtree.net:8080/F17744/f01e18e2/73791
+http://102.222.232.18:9981/stream/channelid/1800492202?ticket=3AD7E8B4CBB096C8D31BDFC9E570BDCFFF02011F&profile=matroska
 #EXTINF:0,Sony HD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:0,7 Star
+
+#EXTINF:0,Star plus HD
+http://starshare.live:8080/live/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/3744.ts
 #EXTINF:0,Colors HD
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
+#EXTINF:0,Travelxp
+
+#EXTINF:0,Discovery
+http://172.16.29.250/hls/discovery.m3u8
+#EXTINF:0,BBC Earth
+
+#EXTINF:0,Discovery Bangla HD 
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/406.ts
+#EXTINF:0,National Geographic Bangla HD 
+
+#EXTINF:0,Ekattor
+http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95780
+
+
+
+#EXTINF:0,ZING
+http://iptvtree.net:8080/F17744/f01e18e2/173160
+
+#EXTINF:0,Star sports 1
+http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862744&extension=ts&play_token=mAZrL4C2oS
