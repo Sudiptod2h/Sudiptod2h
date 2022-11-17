@@ -8,13 +8,13 @@ http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B
 #EXTINF:0,Star Jalsha 2
 http://ottsansat.com:25461/0518982908/0518982908/100642
 #EXTINF:0,Star Jalsha 3
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/71074
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/12979
 #EXTINF:0,star jalsha backup
 http://watchindia.net:8880/live/41447/66974/2281.ts
 #EXTINF:0,Sananda Bangla
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:0,ORANGE BANGLA
-http://quality-restream.com:8080/Houngst20001/QE02A8R8WV4XHK3B/12979
+http://uniquemedia.xyz:8080/iptvdenon/953486b14f/12979
 #EXTINF:0,Sony Aath 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:0,Sony AAth
@@ -52,7 +52,7 @@ http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/16958
 #EXTINF:0,Colors Cineplex
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/71074
 #EXTINF:0,Zee cinema
-https://venompouer.000webhostapp.com/api.php?c=0-9-zeecinema
+http://uniquemedia.xyz:8080/iptvdenon/953486b14f/1350
 #EXTINF:0,ZEE CINEMA HD
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1350
 #EXTINF:0,ZEE ACTION
@@ -72,7 +72,7 @@ http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF:0,GEO TV
 http://208.86.19.13:81/603.stream/index.m3u8
 #EXTINF:0,STAR BHARAT HD (NEW)
-http://watchindia.net:8880/live/41447/66974/780.ts
+http://uniquemedia.xyz:8080/iptvdenon/953486b14f/284583
 #EXTINF:0,Star Bharat SD
 http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862736&extension=ts&play_token=wYOpyBUgSY
 #EXTINF:0,STAR BHARAT HD
