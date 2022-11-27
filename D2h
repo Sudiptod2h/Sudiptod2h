@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0,STAR JALSHA
-http://vip.4kiptv.pro:2095/play/live.php?mac=00:1A:79:B6:E0:70&stream=438216&extension=ts&play_token=hLur7vqgxz
+http://103.132.181.98:81/play/a001
 
 #EXTINF:0,Star Jalsha HD
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/12979
 #EXTINF:0,Star Jalsha 1
 http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
 #EXTINF:0,Star Jalsha 2
-http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=155770&extension=ts&play_token=PABpABY5jb
+https://tinyurl.com/2oytlyag
 #EXTINF:0,Star Jalsha 3
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/12979
 #EXTINF:0,star jalsha backup
@@ -19,7 +19,7 @@ http://uniquemedia.xyz:8080/iptvdenon/953486b14f/12979
 #EXTINF:0,Sony Aath 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:0,Sony AAth
-http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225775&extension=ts&play_token=CMpK7iSzJk
+http://watchindia.net:8880/live/14100/70701/2286.ts
 #EXTINF:0,ENTER10 BANGLA
 http://102.222.232.18:9981/stream/channelid/961022701?ticket=6D18BD9D96EBE3EFC77C6FB3EEC4FDFCC1C6C744&profile=matroska
 #EXTINF:0,Colors Bangla Cinema 
@@ -27,7 +27,7 @@ http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:0,Zee Bangla HD 
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225786&extension=ts&play_token=9dTtkXLcVr
 #EXTINF:0,Zee Bangla Cinema 
-http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=155782&extension=ts&play_token=KzHYw3hgLb
+http://103.132.181.98:81/play/a00d
 #EXTINF:0,Jalsha Movies
 http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/425.ts
 #EXTINF:0,Akash Aath
@@ -41,7 +41,7 @@ http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/178701
 #EXTINF:0,STAR GOLD (NEW)
 http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/194.ts
 #EXTINF:0,Sony Max HD
-http://pakiptv.top:8880/Hanifppp50/rWK9xgZRze/111
+http://103.132.181.98:81/play/a00c
 #EXTINF:0,Sony max 
 http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/178707
 #EXTINF:0,Star gold 2
@@ -49,7 +49,7 @@ http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/178870
 #EXTINF:0,Star gold 2 SD
 http://starshare.live:8080/live/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4324.ts
 #EXTINF:0,& Picture
-http://pakiptv.top:8880/Hanifppp50/rWK9xgZRze/71
+http://watchindia.net:8880/live/14100/70701/818.ts
 #EXTINF:0,Colors Cineplex
 http://techmaxlive.ml/live.php?c=Colors_Cineplex&q=1200&e=junk.m3u8
 #EXTINF:0,Zee cinema
@@ -61,11 +61,11 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/1353
 #EXTINF:0,STAR GOLD SELECT
 http://ott-serveur.com:8000/504645251728170/515299363871871/178702
 #EXTINF:0,UTV Action
-http://ott-serveur.com:8000/504645251728170/515299363871871/178780
+http://103.132.181.98:81/play/a00m
 #EXTINF:0,Utv MOVIES HD
 http://ott-serveur.com:8000/504645251728170/515299363871871/178814
 #EXTINF:0,UTV HD
-http://ott-serveur.com:8000/504645251728170/515299363871871/178781
+http://watchindia.net:8880/live/14100/70701/811.ts
 #EXTINF:0,Bflix Movies
 http://techmaxlive.ml/live.php?c=Bflix_Movies&q=1200&e=junk.m3u8
 
@@ -74,7 +74,7 @@ http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF:0,GEO TV
 http://208.86.19.13:81/603.stream/index.m3u8
 #EXTINF:0,STAR BHARAT HD (NEW)
-http://103.166.102.58:8000/play/a010
+http://watchindia.net:8880/live/14100/70701/780.ts
 #EXTINF:0,Star Bharat SD
 http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862736&extension=ts&play_token=wYOpyBUgSY
 #EXTINF:0,STAR BHARAT HD
@@ -88,7 +88,7 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/193025
 #EXTINF:0,SONY 
 http://starshare.live:8080/live/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/98854.ts
 #EXTINF:0,Sony HD
-http://ott-serveur.com:8000/504645251728170/515299363871871/178706
+http://103.132.181.98:81/play/a00h
 #EXTINF:0,7 Star
 
 #EXTINF:0,Star plus HD
@@ -98,7 +98,7 @@ http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97872
 #EXTINF:0,Travelxp
 http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/82636
 #EXTINF:0,Discovery
-http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225747&extension=ts&play_token=gpVtHin114
+http://watchindia.net:8880/live/14100/70701/841.ts
 #EXTINF:0,BBC Earth
 http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/7721.ts
 #EXTINF:0,Discovery Bangla HD 
