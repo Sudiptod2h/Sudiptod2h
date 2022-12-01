@@ -17,19 +17,19 @@ http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:0,ORANGE BANGLA
 http://uniquemedia.xyz:8080/iptvdenon/953486b14f/12979
 #EXTINF:0,Sony Aath 
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+http://103.132.181.98:81/play/a009
 #EXTINF:0,Sony AAth
 http://ottsansat.com:25461/bSRdleBHpHjvGCa/beeKIKYFPVDnfZd/100696
 #EXTINF:0,ENTER10 BANGLA
-http://102.222.232.18:9981/stream/channelid/961022701?ticket=6D18BD9D96EBE3EFC77C6FB3EEC4FDFCC1C6C744&profile=matroska
+http://103.132.181.98:81/play/a00n
 #EXTINF:0,Colors Bangla Cinema 
 http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:0,Zee Bangla HD 
-http://ottsansat.com:25461/bSRdleBHpHjvGCa/beeKIKYFPVDnfZd/100707
+http://103.132.181.98:81/play/a00k
 #EXTINF:0,Zee Bangla Cinema 
-http://ottsansat.com:25461/bSRdleBHpHjvGCa/beeKIKYFPVDnfZd/100702
+http://103.132.181.98:81/play/a00d
 #EXTINF:0,Jalsha Movies
-http://ottsansat.com:25461/bSRdleBHpHjvGCa/beeKIKYFPVDnfZd/100641
+http://103.132.181.98:81/play/a004
 #EXTINF:0,Akash Aath
 http://ottsansat.com:25461/bSRdleBHpHjvGCa/beeKIKYFPVDnfZd/100643
 #EXTINF:0,ENTER10 MOVIES
@@ -114,4 +114,4 @@ http://208.86.19.13:81/675.stream/index.m3u8
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69340
 
 #EXTINF:0,Star sports 1
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
