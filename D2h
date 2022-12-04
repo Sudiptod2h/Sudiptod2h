@@ -3,19 +3,19 @@
 http://103.132.181.98:81/play/a001
 
 #EXTINF:0,Star Jalsha HD
-http://sansat.net:25461/02020044857390/02022528915114/100722
+http://b1g.uk:80/play/live.php?mac=00:1A:79:64:1A:EA&stream=14154&extension=ts&play_token=BS6Hljo2cS
 #EXTINF:0,Star Jalsha 1
 http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
 #EXTINF:0,Star Jalsha 2
 http://sansat.net:25461/02020044857390/02022528915114/95769
 #EXTINF:0,Star Jalsha 3
-http://103.159.4.38:8091/CH24-INBD3/index.m3u8
+http://b1g.uk:80/play/live.php?mac=00:1A:79:64:1A:EA&stream=14154&extension=ts&play_token=BS6Hljo2cS
 #EXTINF:0,star jalsha backup
-http://sansat.net:25461/02020044857390/02022528915114/100642
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69319
 #EXTINF:0,Sananda Bangla
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:0,ORANGE BANGLA
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/98883.ts
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/8540.ts
 #EXTINF:0,Sony Aath 
 http://103.132.181.98:81/play/a009
 #EXTINF:0,Sony AAth
@@ -41,7 +41,7 @@ http://sansat.net:25461/02020044857390/02022528915114/96174
 #EXTINF:0,STAR GOLD (NEW)
 http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862738&extension=m3u8&play_token=MCXI8zLmSU
 #EXTINF:0,Sony Max HD
-http://iptvtree.net:8080/ace2524d/773dbded1a/63397
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/69315
 #EXTINF:0,Sony max 
 http://sansat.net:25461/02020044857390/02022528915114/96180
 #EXTINF:0,Star gold 2
@@ -98,7 +98,7 @@ https://tv.freeseries.eu.org/live.php?c=Rishtey_Cineplex&q=1200&e=junk.m3u8
 #EXTINF:0,Travelxp
 https://tv.freeseries.eu.org/live.php?c=Travel_XP&q=1200&e=junk.m3u8
 #EXTINF:0,Discovery
-http://sansat.net:25461/02020044857390/02022528915114/100753
+http://sansat.net:25461/02020044857390/02022528915114/96219
 #EXTINF:0,BBC Earth
 http://sansat.net:25461/02020044857390/02022528915114/96183
 #EXTINF:0,Discovery Bangla HD 
@@ -111,7 +111,7 @@ http://208.86.19.13:81/675.stream/index.m3u8
 
 
 #EXTINF:0,ZING
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/970.ts
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69340
 
 #EXTINF:0,Star sports 1
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
