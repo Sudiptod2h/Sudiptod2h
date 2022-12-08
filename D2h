@@ -33,9 +33,8 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/198749
 #EXTINF:0,Akash Aath
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/198709
 #EXTINF:0,ENTER10 MOVIES
-https://tv.freeseries.eu.org/live.php?c=Enterr_10&q=1200&e=junk.m3u8
-#EXTINF:0,MTV HD+
-http://uniontvs.com:8080/elhafsi/6749574953999/261720
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21135&extension=ts&play_token=I2O0Jm1XaN
+
 #EXTINF:0,Star gold
 http://www.pandar.info:25461/02020619868415/02020619868415/96174
 #EXTINF:0,STAR GOLD (NEW)
@@ -50,8 +49,12 @@ http://iptvmedia.live:8080/stadnik/8f064f8602/43919
 http://www.pandar.info:25461/02020619868415/02020619868415/96343
 #EXTINF:0,& Picture
 http://iptvmedia.live:8080/stadnik/8f064f8602/16958
+#EXTINF:0,& Picture HD
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21064&extension=ts&play_token=5jLwanKxqf
 #EXTINF:0,Colors Cineplex
 http://www.pandar.info:25461/02020619868415/02020619868415/96204
+#EXTINF:0,Colors Cineplex HD
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21047&extension=ts&play_token=4Yh8WAK6Zz
 #EXTINF:0,Zee cinema
 http://uniquemedia.xyz:8080/iptvdenon/953486b14f/1350
 #EXTINF:0,ZEE CINEMA HD
@@ -61,7 +64,7 @@ http://iptvmedia.live:8080/stadnik/8f064f8602/1353
 #EXTINF:0,STAR GOLD SELECT
 https://tinyurl.com/Goldmines-livetvwithshuvo-m3u
 #EXTINF:0,UTV Action
-http://103.132.181.98:81/play/a00m
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21245&extension=ts&play_token=PlFoAGsDi1
 #EXTINF:0,Utv MOVIES HD
 http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/77143.ts
 #EXTINF:0,UTV HD
@@ -86,21 +89,22 @@ http://www.pandar.info:25461/02020619868415/02020619868415/96296
 #EXTINF:0,DANGAL TV 2
 http://iptvmedia.live:8080/stadnik/8f064f8602/193025
 #EXTINF:0,SONY 
-http://daddyserver.com:8080/@blades41/qTyguNhMRK/53320
+http://www.pandar.info:25461/02020619868415/02020619868415/96179
 #EXTINF:0,Sony HD
 http://103.132.181.98:81/play/a00h
-#EXTINF:0,7 Star
+#EXTINF:0,SONY WAH
+http://www.pandar.info:25461/02020619868415/02020619868415/96186
 
 #EXTINF:0,Star plus HD
 http://daddyserver.com:8080/@blades41/qTyguNhMRK/53436
 #EXTINF:0,Colors HD
 https://tv.freeseries.eu.org/live.php?c=Rishtey_Cineplex&q=1200&e=junk.m3u8
 #EXTINF:0,Travelxp
-https://tv.freeseries.eu.org/live.php?c=Travel_XP&q=1200&e=junk.m3u8
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21047&extension=ts&play_token=4Yh8WAK6Zz
 #EXTINF:0,Discovery
 http://www.pandar.info:25461/02020619868415/02020619868415/96219
 #EXTINF:0,BBC Earth
-http://www.pandar.info:25461/02020619868415/02020619868415/96183
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21064&extension=ts&play_token=5jLwanKxqf
 #EXTINF:0,Discovery Bangla HD 
 https://tv.freeseries.eu.org/live.php?c=Discovery_Channel_Hindi&q=1200&e=junk.m3u8
 #EXTINF:0,National Geographic Bangla HD 
@@ -111,7 +115,8 @@ http://208.86.19.13:81/675.stream/index.m3u8
 
 
 #EXTINF:0,ZING
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69340
-
+http://www.pandar.info:25461/02020619868415/02020619868415/96172
+#EXTINF:0,MTV HD+
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21052&extension=ts&play_token=xQND65bG9O
 #EXTINF:0,Star sports 1
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
