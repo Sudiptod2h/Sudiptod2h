@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 ,News 18 India
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=IBN_7&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 ,India TV
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=India_TV&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 ,NDTV India
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=NDTV_India&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 ,Zee News
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=Zee_News&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 ,AajTak
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=Aaj_Tak&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 ,NDTV GoodTimes
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=NDTV_Good_Times&q=1200&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 ,Times Now Navbharat
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=Times_Now_Navbharat&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 ,Times NOW
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=Times_NOW&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 ,ABP News India
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=ABP_News_India&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 ,ABP Ananda
+http://noobbro.xyz/Zioo/live.php?c=ABP_Ananda&q=1200&e=.m3u8
+#EXTINF:-1 ,ZEE 24 Ghanta TV
+http://noobbro.xyz/Zioo/live.php?c=24_Ghanta_TV&q=800&e=.m3u8
+#EXTINF:-1 ,News 24
+http://noobbro.xyz/Zioo/live.php?c=News_24&q=800&e=.m3u8
+#EXTINF:-1 ,Aakaash bangla
+http://noobbro.xyz/Zioo/live.php?c=Aakaash_bangla&q=1200&e=.m3u8
+#EXTINF:-1 ,TV9 Bharatvarsha
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=TV9_Bharatvarsh&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 ,TV9 Bangla
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=TV9_Bangla&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 , Republic tv
+https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=Republic_TV&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
