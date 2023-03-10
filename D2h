@@ -1,124 +1,135 @@
 #EXTM3U
 #EXTINF:0,STAR JALSHA
-http://103.132.181.98:81/play/a001
-
-http://103.141.2.37:25461/get.php?username=web&password=web&type=m3u_plus
-
+http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/12979
+ 
+#EXTINF:0,STAR JALSA
+http://directiptvfhd.com:8080/noloseiclou/QxW3FVZDTumKUNUx/12979
 #EXTINF:0,Star Jalsha HD
-http://www.pandar.info:25461/02020619868415/02020619868415/100722
+http://176.57.50.167:25461/esaletv2/2226677442/85562
 #EXTINF:0,Star Jalsha 1
-http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
+http://xplatinmedia.com:8080/@Babarbugti/5J2XyMtM7bP7/13379
 #EXTINF:0,Star Jalsha 2
-http://iptvmedia.live:8080/stadnik/8f064f8602/12979
+http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/308683
 #EXTINF:0,Star Jalsha 3
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862988&extension=ts&play_token=VRW07gXmnZ
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/552
 #EXTINF:0,star jalsha backup
-http://www.pandar.info:25461/02020619868415/02020619868415/100697
+http://scorpione.net:25461/Rafael/123456/160216
 #EXTINF:0,Sananda Bangla
-http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
-#EXTINF:0,ORANGE BANGLA
-http://www.pandar.info:25461/02020619868415/02020619868415/100641
+http://sansat.net:25461/dwMeITHZvrtQEZ9/EfLKaZObKmkKwFk/100697
+#EXTINF:0,Star Jalsha 4
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:0,Star Jalsha 5
+http://uniquemedia.xyz:8080/4467299f/9524ded1cd/12979
 #EXTINF:0,Sony Aath 
-http://103.132.181.98:81/play/a009
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:0,Sony AAth
-http://iptvtree.net:8080/AtomicStreams/f584627a/17005
-#EXTINF:0,ENTER10 BANGLA
-http://103.132.181.98:81/play/a00n
-#EXTINF:0,Colors Bangla Cinema 
-http://208.86.19.13:81/907.stream/index.m3u8
+http://directiptvfhd.com:8080/noloseiclou/QxW3FVZDTumKUNUx/17005
+#EXTINF:0,Colors Bangla HD
+http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/499212
+#EXTINF:0,Zee Bangla
+http://s1.pubnow.info:8080/Aissa2022/Aissa2022/118510
 #EXTINF:0,Zee Bangla HD 
-http://www.pandar.info:25461/02020619868415/02020619868415/95778
+http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/308686
 #EXTINF:0,Zee Bangla Cinema 
-http://www.pandar.info:25461/02020619868415/02020619868415/100702
+http://xplatinmedia.com:8080/@Babarbugti/5J2XyMtM7bP7/93027
+#EXTINF:0,Zee Bangla Cinema SD
+http://xplatinmedia.com:8080/@Babarbugti/5J2XyMtM7bP7/120894
 #EXTINF:0,Jalsha Movies
-http://103.132.181.98:81/play/a004
+http://103.141.2.37:25461/web/web/600
 #EXTINF:0,Akash Aath
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/198709
+http://mytv.fun:80/7bboss69wk/xdmjfhrj6/696445
+#EXTINF:0,ENTER10 BANGLA
+https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8
 #EXTINF:0,ENTER10 MOVIES
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21135&extension=ts&play_token=I2O0Jm1XaN
-
+http://iptvmedia.live:8080/365c2123/ef549162ad/193025
+ 
 #EXTINF:0,Star gold
-http://www.pandar.info:25461/02020619868415/02020619868415/96174
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/314987
 #EXTINF:0,STAR GOLD (NEW)
-http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862738&extension=m3u8&play_token=MCXI8zLmSU
+http://50.7.69.66/star_gold/index.m3u8
 #EXTINF:0,Sony Max HD
-http://www.pandar.info:25461/02020619868415/02020619868415/96180
-#EXTINF:0,Sony max 
-http://iptvtree.net:8080/AtomicStreams/f584627a/63397
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:0,Sony max SD
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 #EXTINF:0,Star gold 2
-http://iptvmedia.live:8080/stadnik/8f064f8602/43919
+http://xplatinmedia.com:8080/@Babarbugti/5J2XyMtM7bP7/53351
 #EXTINF:0,Star gold 2 SD
-http://www.pandar.info:25461/02020619868415/02020619868415/96343
+http://iptvmedia.live:8080/365c2123/ef549162ad/43919
 #EXTINF:0,& Picture
-http://iptvmedia.live:8080/stadnik/8f064f8602/16958
+http://xplatinmedia.com:8080/@Babarbugti/5J2XyMtM7bP7/53344
+
 #EXTINF:0,& Picture HD
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21041&extension=ts&play_token=Uy8L77mdGf
+http://208.86.19.13:81/7055.stream/index.m3u8
 #EXTINF:0,Colors Cineplex
-https://tv.freeseries.eu.org/live.php?c=Colors_Cineplex&q=1200&e=junk.m3u8
-#EXTINF:0,Colors Cineplex HD
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21039&extension=ts&play_token=IglKspFS9R
+http://xplatinmedia.com:8080/@Babarbugti/5J2XyMtM7bP7/53361
+#EXTINF:0,GOLDMINES
+http://x-media.tv:8880/Bestcs2/ZcR6SXTkiDPVtg/5545
+#EXTINF:0,DHINCHAAK
+http://103.113.103.249:18001/play/a02g/index.m3u8
 #EXTINF:0,Zee cinema
-http://uniquemedia.xyz:8080/iptvdenon/953486b14f/1350
+http://bandookk.xyz:8000/STARPLUS1232/Cpw4Xu7HLT/1431
 #EXTINF:0,ZEE CINEMA HD
-http://www.pandar.info:25461/02020619868415/02020619868415/96171
+http://iptvmedia.live:8080/365c2123/ef549162ad/1350
 #EXTINF:0,ZEE ACTION
-http://iptvmedia.live:8080/stadnik/8f064f8602/1353
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:0,ZEE CINEMALU
+http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/403121
 #EXTINF:0,STAR GOLD SELECT
-https://tinyurl.com/Goldmines-livetvwithshuvo-m3u
+http://bandookk.xyz:8000/STARPLUS1232/Cpw4Xu7HLT/27985
 #EXTINF:0,UTV Action
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21245&extension=ts&play_token=PlFoAGsDi1
+http://bandookk.xyz:8000/STARPLUS1232/Cpw4Xu7HLT/11262
 #EXTINF:0,Utv MOVIES HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/77143.ts
+http://50.7.69.66/UTV_MOVIES/index.m3u8
 #EXTINF:0,UTV HD
-http://www.pandar.info:25461/02020619868415/02020619868415/96255
+http://xtra.fireottplus.com:2052/csp11/localttt77/147446
 #EXTINF:0,Bflix Movies
-http://iptvmedia.live:8080/stadnik/8f064f8602/73791
-
-#EXTINF:0,HUM TV HD
-http://208.86.19.13:81/627.stream/index.m3u8
-#EXTINF:0,GEO TV
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=69038&extension=ts&play_token=IM753QitxL
-#EXTINF:0,STAR BHARAT HD (NEW)
-http://bandookk.xyz:8000/BJTECH/0055hh11/1422
-#EXTINF:0,Star Bharat SD
-http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862736&extension=ts&play_token=wYOpyBUgSY
-#EXTINF:0,STAR BHARAT HD
-http://www.pandar.info:25461/02020619868415/02020619868415/96173
-#EXTINF:0,DANGAL
-http://iptvtree.net:8080/AtomicStreams/f584627a/82589
-#EXTINF:0,DANGAL (IN)
-http://www.pandar.info:25461/02020619868415/02020619868415/96296
-#EXTINF:0,DANGAL TV 2
-http://iptvmedia.live:8080/stadnik/8f064f8602/193025
-#EXTINF:0,SONY 
-http://www.pandar.info:25461/02020619868415/02020619868415/96179
-#EXTINF:0,Sony HD
-http://103.132.181.98:81/play/a00h
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/73791
 #EXTINF:0,SONY WAH
-http://www.pandar.info:25461/02020619868415/02020619868415/96186
-
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+ 
+#EXTINF:0,HUM TV HD
+http://bandookk.xyz:8000/STARPLUS1232/Cpw4Xu7HLT/971
+#EXTINF:0,GEO TV
+http://bandookk.xyz:8000/STARPLUS1232/Cpw4Xu7HLT/969
+#EXTINF:0,STAR BHARAT HD (NEW)
+http://50.7.69.66/star_bharat/index.m3u8
+#EXTINF:0,Star Bharat SD
+http://xtra.fireottplus.com:2052/csp11/localttt77/147365
+#EXTINF:0,STAR BHARAT HD
+http://bandookk.xyz:8000/STARPLUS1232/Cpw4Xu7HLT/1422
+#EXTINF:0,DANGAL
+https://enterr10-live.streamready.in/pub-iodang10p4al/liveabr/playlist.m3u8
+#EXTINF:0,DANGAL (IN)
+http://longstream-03.ajaah.com/PlayBoxTV/Dangal/playlist.m3u8
+#EXTINF:0,DANGAL TV 2
+http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+#EXTINF:0,DANGAL TV 2 SD
+https://enterr10-live.streamready.in/pub-iodanga2a26kj2/liveabr/pub-iodanga2a26kj2/live_720p/chunks.m3u8
+#EXTINF:0,SONY 
+http://s1.pubnow.info:8080/Aissa2022/Aissa2022/118393
+#EXTINF:0,Sony HD
+http://x-media.tv:8880/Net_babu/wFRVtPhkNv/638
+ 
+ 
 #EXTINF:0,Star plus HD
-http://daddyserver.com:8080/@blades41/qTyguNhMRK/53436
-#EXTINF:0,Colors HD
-https://tv.freeseries.eu.org/live.php?c=Rishtey_Cineplex&q=1200&e=junk.m3u8
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/314850
+ 
 #EXTINF:0,Travelxp
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21047&extension=ts&play_token=4Yh8WAK6Zz
+http://supersonictv.live:25461/Larry123/Larry123/85621
 #EXTINF:0,Discovery
-http://www.pandar.info:25461/02020619868415/02020619868415/96219
+http://xtra.fireottplus.com:2052/csp11/localttt77/147411
 #EXTINF:0,BBC Earth
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21064&extension=ts&play_token=5jLwanKxqf
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryin-samsungin/playlist.m3u8
 #EXTINF:0,Discovery Bangla HD 
-https://tv.freeseries.eu.org/live.php?c=Discovery_Channel_Hindi&q=1200&e=junk.m3u8
+http://supersonictv.live:25461/747868/102789/85621
 #EXTINF:0,National Geographic Bangla HD 
-http://www.pandar.info:25461/02020619868415/02020619868415/96240
+http://176.57.50.167:25461/006305/27762776/85621
 #EXTINF:0,Ekattor
-http://208.86.19.13:81/675.stream/index.m3u8
-
-http://starshare.live:8080/get.php?username=47djShaqib-_-28EDJ9edn2894dcn928SJ10SZ_29_-_19@zsjwdj2389dn1&password=dkj28sj@83jSI-__-__sjwej38ds@8edjx39djKX29dh2ixwj2849dsh28dj24&type=m3u_plus
-
+http://iptv.dxdtv.xyz:8080/Homeplay/h6wCGSWzgM/212
+ 
 #EXTINF:0,ZING
-http://www.pandar.info:25461/02020619868415/02020619868415/96172
+http://phibine.top:8080/live/51672198446841065/8461672198446841/53717.ts
 #EXTINF:0,MTV HD+
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:15:3f:22&stream=21052&extension=ts&play_token=xQND65bG9O
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/175596
 #EXTINF:0,Star sports 1
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+http://bandookk.xyz:8000/STARPLUS1232/Cpw4Xu7HLT/17528
